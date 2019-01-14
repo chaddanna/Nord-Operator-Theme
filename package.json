@@ -1,0 +1,21 @@
+{
+  "name": "nord-operator-theme",
+  "displayName": "Nord Operator Theme",
+  "description": "A customized Nord theme with Operator Mono support for Visual Studio Code.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nord Operator Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nord Operator Theme-color-theme.json"
+      }
+    ]
+  }
+}
