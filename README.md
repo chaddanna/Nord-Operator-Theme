@@ -2,11 +2,11 @@
 
 # Nord Operator Theme
 
-A customized Nord theme with Operator Mono support for Visual Studio Code.
+A customized Nord theme with Operator Mono support for Visual Studio Code. Now with no italic option as well.
 
 [![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12)
 
-<img src="https://i.imgur.com/qkUbqZk.jpg" width="680">
+<img src="https://i.imgur.com/1ZrmvQi.jpg" width="680">
 
 </div>
 # Installation
